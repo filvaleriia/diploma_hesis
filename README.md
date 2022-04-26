@@ -2,8 +2,8 @@
 
 # CONTENT
 1. folder data consist of:
-  a. VDRML_chembl_inputs.csv - 47 active VDR ligands on which scaffold analysis was performed
-  b. inputs_VDR_pairs.csv - input data for Molpher algorithm already containing start and target (stop) molecule
+  - VDRML_chembl_inputs.csv - 47 active VDR ligands on which scaffold analysis was performed
+  - inputs_VDR_pairs.csv - input data for Molpher algorithm already containing start and target (stop) molecule
 2. folder Molpher
   
 
