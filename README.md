@@ -18,3 +18,6 @@
   
 
 3. folder plots: contains metrics visualizations
+4. metrics.ipynb - jupyter notebook containing calculation metrics and visualization
+
+
